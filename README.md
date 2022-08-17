@@ -25,25 +25,26 @@
   
   <a href="https://instagram.com/pedromeira220" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-meira220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.github.com/PeterGamer8K" target="_blank"><img src="https://img.shields.io/badge/-github-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  
   
 </div>
+  
+#### Personal github (PeterGamer8K)
+##### Here I put some of my personal projects
   
 ##
 ### Who am I?
 - Pedro Meira 
 - 15 years old
 - Brazilian
+  
 
 ### Favorite technologies:
 - [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/en/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en/docs/Web/CSS)
 - [Node.js](https://nodejs.org/en/)
-
-
-
-
 
 
 
@@ -54,6 +55,8 @@
 - [Expo](https://expo.io/)
 - [TypeScript](https://reactjs.org)
 
+  
+  
 <!--
 **PeterGamer8K/PeterGamer8K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
