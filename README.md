@@ -1,5 +1,7 @@
 # Hello there👋
 
+### Personal github (PeterGamer8K)
+
 ##
 
 <div align="center">
@@ -30,7 +32,7 @@
   
 </div>
   
-#### Personal github (PeterGamer8K)
+
 ##### Here I put some of my personal projects
   
 ##
