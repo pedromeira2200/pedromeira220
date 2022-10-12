@@ -1,6 +1,6 @@
 # Hello there👋
 
-### Personal github (PeterGamer8K)
+### Personal github [PeterGamer8K](https://github.com/PeterGamer8K)
 
 ##
 
